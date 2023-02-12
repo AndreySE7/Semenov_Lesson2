@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Семенов_Урок2</string>
+    <string name="move_on">Перейти дальше</string>
+    <string name="text">Для того, чтобы перейти дальше нажмите на кнопку ниже</string>
+    <string name="edit_text">Введите текст...</string>
+</resources>
