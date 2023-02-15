@@ -3,5 +3,7 @@
     <string name="app_name">Семенов_Урок2</string>
     <string name="move_on">Перейти дальше</string>
     <string name="text">Для того, чтобы перейти дальше нажмите на кнопку ниже</string>
-    <string name="edit_text">Введите текст...</string>
+    <string name="edit_text">Введите текст…</string>
+    <string name="defaultText">Укажите текст в следующем окне</string>
+    <string name="back_button">Назад</string>
 </resources>
