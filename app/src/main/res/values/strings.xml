@@ -2,5 +2,7 @@
     <string name="app_name">Semenov_Lesson2</string>
     <string name="move_on">Move on</string>
     <string name="text">Click on the button below to move on</string>
-    <string name="edit_text">Enter text...</string>
+    <string name="edit_text">Enter text…</string>
+    <string name="defaultText">Specify the text in the next window</string>
+    <string name="back_button">Back</string>
 </resources>
