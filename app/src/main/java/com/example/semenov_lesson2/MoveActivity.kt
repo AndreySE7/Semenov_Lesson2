@@ -1,12 +1,7 @@
 package com.example.semenov_lesson2
 
-import android.app.Activity
-import android.content.Intent
 import android.os.Bundle
-import android.widget.Button
-import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.widget.doOnTextChanged
 import com.example.semenov_lesson2.Contract.Companion.TEXT_KEY
 import com.example.semenov_lesson2.databinding.ActivityMoveBinding
 

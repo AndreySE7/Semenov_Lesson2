@@ -18,5 +18,6 @@ class Contract : ActivityResultContract<String, String?>() {
 
     companion object {
         const val TEXT_KEY = "TEXT_KEY"
+        const val KEY = 1
     }
 }
